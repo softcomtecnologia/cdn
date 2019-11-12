@@ -1,5 +1,5 @@
 {
-    "name": "vinelab/cdn",
+    "name": "softcomtecnologia/cdn",
     "description": "Content Delivery Network (CDN) Package for Laravel",
     "license": "MIT",
     "keywords": [
@@ -25,8 +25,8 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "illuminate/support": "~5.0",
-        "illuminate/config": "~5.0",
+        "illuminate/support": "~6.0",
+        "illuminate/config": "~6.0",
         "symfony/finder": "2.*|3.*",
         "symfony/console": "2.*|3.*",
         "aws/aws-sdk-php": "~3.0"
